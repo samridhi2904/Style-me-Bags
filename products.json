@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b001",
+    "name": "Urban Tote",
+    "price": "$80",
+    "type": "tote",
+    "material": "canvas",
+    "short": "Spacious canvas tote with leather handles.",
+    "image": "asset/tote.jpeg",
+    "tags": ["tote","canvas","bag"]
+  },
+  {
+    "id": "b002",
+    "name": "Metro Backpack",
+    "price": "$120",
+    "type": "backpack",
+    "material": "nylon",
+    "short": "Lightweight backpack with padded straps.",
+    "image": "asset/bag.webp",
+    "tags": ["backpack","nylon","bag"]
+  },
+  {
+    "id": "b003",
+    "name": "City Crossbody",
+    "price": "$65",
+    "type": "crossbody",
+    "material": "vegan leather",
+    "short": "Compact crossbody for essentials on the go.",
+    "image": "asset/handbag.jpeg",
+    "tags": ["crossbody","vegan leather","bag"]
+  },
+  {
+    "id": "b004",
+    "name": "Classic Satchel",
+    "price": "$110",
+    "type": "tote",
+    "material": "leather",
+    "short": "Structured leather satchel with gold hardware.",
+    "image": "asset/black bag.jpg",
+    "tags": ["satchel","leather","bag"]
+  },
+  {
+    "id": "b005",
+    "name": "Sporty Backpack",
+    "price": "$95",
+    "type": "backpack",
+    "material": "polyester",
+    "short": "Durable backpack with water-resistant finish.",
+    "image": "asset/black bag.jpg",
+    "tags": ["backpack","polyester","bag"]
+  },
+  {
+    "id": "b006",
+    "name": "Mini Crossbody",
+    "price": "$55",
+    "type": "crossbody",
+    "material": "canvas",
+    "short": "Small crossbody bag for quick outings.",
+    "image": "asset/tote.jpeg",
+    "tags": ["crossbody","canvas","bag"]
+  }
+]
